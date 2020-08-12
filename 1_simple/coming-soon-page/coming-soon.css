@@ -1,0 +1,45 @@
+* {
+    font-family: Raleway, sans-serif;
+    color: #FFFFFF;
+}
+
+body {
+    background-image: url("forest.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    /*background-size: cover;*/
+    background-color: #000000;
+    position: relative;
+}
+
+#logo {
+    border: 0;
+    font-size: .5em;
+    text-align: left;
+}
+
+#coming-soon-text {
+    border: 0;
+    font-size: 1.5em;
+    text-align: center;
+}
+
+hr #solid-line {
+    border-top: 2px solid #FFFFFF;
+    text-align: center;
+}
+
+#daysleft {
+    border: 0;
+    font-size: .75em;
+    text-align: center;
+    font-style: italic;
+    font-weight: lighter;
+}
+
+#footnote {
+    border: 0;
+    font-size: .5em;
+    text-align: left;
+    text-decoration: underline #FFFFFF;
+}
